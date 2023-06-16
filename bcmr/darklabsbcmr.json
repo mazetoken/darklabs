@@ -1,0 +1,71 @@
+{
+    "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+    "version": { "major": 1, "minor": 1, "patch": 0 },
+    "latestRevision": "2023-06-16T00:00:00.000Z",
+    "registryIdentity": {
+        "name": "Dark Labs CRC20 BCMR",
+        "description": "Dark Labs CRC20 Bitcoin Cash Metadata Registry",
+        "uris": {
+            "icon": "https://mazetoken.github.io/darklabs/img/dark.png",
+            "web": "https://mazetoken.github.io/darklabs/bcmr/",
+            "registry": "https://mazetoken.github.io/darklabs/bcmr/darklabsbcmr.json"
+        }
+    },
+    "identities": {
+        "15b6e0152a4ecb7a561ac0e1f3dca540db8133c520bffdaf532e6d99b4f980e3": {
+            "2023-06-16T00:00:00.000Z": {
+                "name": "MESH",
+                "description": "MESH is inspired by the mesh network and participation in the transmission of information.",
+                "token": {
+                    "category": "15b6e0152a4ecb7a561ac0e1f3dca540db8133c520bffdaf532e6d99b4f980e3",
+                    "decimals": 8,
+                    "symbol": "MESH"
+                },
+                "migrated": "2023-06-16T00:00:00.000Z",
+                "uris": {
+                    "icon": "https://bafkreic5frc5xyn63fuxe63oqtgyj3eml4jcklepazqjlv3l3gs5ciiptq.ipfs.nftstorage.link/",
+                    "web": "https://mazetoken.github.io/darklabs/",
+                    "chat": "https://t.me/mazetokens/",
+                    "registry": "https://mazetoken.github.io/darklabs/bcmr/darklabsbcmr.json"
+                }
+            }
+        },
+        "4a3cf93cc0921e64c1f6dd6f8e348888be5e289d0b4f6cedb9b718b8d9590259": {
+            "2023-06-16T00:00:00.000Z": {
+                "name": "DARK",
+                "description": "DARK is inspired by the power of darkness - do not be afraid of it, but understand it and harness it.",
+                "token": {
+                    "category": "4a3cf93cc0921e64c1f6dd6f8e348888be5e289d0b4f6cedb9b718b8d9590259",
+                    "decimals": 8,
+                    "symbol": "DARK"
+                },
+                "migrated": "2023-06-16T00:00:00.000Z",
+                "uris": {
+                    "icon": "https://bafkreightpafngc7qgpzav65d6r42ztcvcaildfnhg67ziw4g6xde6aol4.ipfs.nftstorage.link/",
+                    "web": "https://mazetoken.github.io/darklabs/",
+                    "chat": "https://t.me/mazetokens/",
+                    "registry": "https://mazetoken.github.io/darklabs/bcmr/darklabsbcmr.json"
+                }
+            }
+        },
+        "bc1faf2615c0b2bdf94036f40f7b3b7bca87f8e515660905b4c454e150ee4f68": {
+            "2023-06-16T00:00:00.000Z": {
+                "name": "LOLLIPOP",
+                "description": "LOLLIPOP is inspired by the security defense model - breaking one layer of security can lead to access to a given resource.",
+                "token": {
+                    "category": "bc1faf2615c0b2bdf94036f40f7b3b7bca87f8e515660905b4c454e150ee4f68",
+                    "decimals": 2,
+                    "symbol": "LOLLIPOP"
+                },
+                "migrated": "2023-06-16T00:00:00.000Z",
+                "uris": {
+                    "icon": "https://bafybeieqhjbm33hxdjx7jshd3hmy75sbr7q5ko3enq7vcxwp7vltxdtej4.ipfs.nftstorage.link/",
+                    "web": "https://mazetoken.github.io/darklabs/",
+                    "chat": "https://t.me/mazetokens/",
+                    "registry": "https://mazetoken.github.io/darklabs/bcmr/darklabsbcmr.json"
+                }
+            }
+        }
+    },
+    "license": "CC0-1.0"
+}
