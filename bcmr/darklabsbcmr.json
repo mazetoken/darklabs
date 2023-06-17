@@ -6,7 +6,7 @@
         "name": "Dark Labs CRC20 BCMR",
         "description": "Dark Labs CRC20 Bitcoin Cash Metadata Registry",
         "uris": {
-            "icon": "https://mazetoken.github.io/darklabs/img/dark.png",
+            "icon": "https://mazetoken.github.io/darklabs/img/darklabs.png",
             "web": "https://mazetoken.github.io/darklabs/bcmr/",
             "registry": "https://mazetoken.github.io/darklabs/bcmr/darklabsbcmr.json"
         }
